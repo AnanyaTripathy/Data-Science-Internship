@@ -1,6 +1,7 @@
 # Data-Science-Internship
 This repository contains the projects completed throughout the internship period in learning Tree India. The time period of the internship was from February 2021 to May 2021. 
 
+
 Abstract
 
 Project 1 -Calculator
@@ -24,4 +25,5 @@ Project 9-Draw in air
 Project 10- Sentiment analysis
 
 Project 11-Dataset model prediction
+
 Project 12- Breast Cancer detection
