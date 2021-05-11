@@ -10,11 +10,11 @@ Project 2-Tableau projects (Foreign direct Investment Boston real estate, IMDb)
 
 Project 3-KNN-classifying the IRIS dataset
 
-Project 4-K means clustering – Movie recommendation
+Project 4-K means clustering – Movie recommendation system
 
-Project 5 – E-commerce
+Project 5 – E-commerce website prediction of customer behaviour
 
-Project 6- Prediction of quality control & mainten of turbojet engine
+Project 6- Prediction of quality control & maintenance of turbojet engine
 
 Project 7- Hotel prediction
 
