@@ -20,7 +20,7 @@ Project 7- Hotel prediction
 
 Project 8-Digit recognition
 
-Project 9-Draw in air
+Project 9-Draw in air using open CV
 
 Project 10- Sentiment analysis
 
